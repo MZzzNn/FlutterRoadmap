@@ -1,12 +1,12 @@
 # FlutterRoadmap
-hi baby 
-let's start our journy to learn flutter, I will divide the roadmap into different levels..
+##hi baby 
+###let's start our journy to learn flutter, I will divide the roadmap into different levels..
 
-first if you are 
-Dart 
+###first if you are don't any thing about programing you will need to start from dart and need to solve some problems
 
-english
-https://www.youtube.com/watch?v=Ej_Pcr4uC2Q
+##Dart 
+
+english https://www.youtube.com/watch?v=Ej_Pcr4uC2Q
 
 arabic
 Php Anonymous  https://www.youtube.com/playlist?list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j *-
@@ -22,8 +22,6 @@ Muhammed Essa https://www.youtube.com/playlist?list=PLMYF6NkLrdN8eHn9nUACpBMfvCp
 Php Anonymous https://www.youtube.com/playlist?list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL *-
 
 
-
-
 Angela (Udemy course paid) https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ
 
 Angela (Udemy course free)  https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277
@@ -32,5 +30,3 @@ Angela (Udemy course free)  https://shareappscrack.com/the-complete-flutter-deve
 official docs 
 
 Flutter documentation https://flutter.dev/docs
-
-

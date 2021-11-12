@@ -4,6 +4,7 @@
 <!-- ### let's start our journy to learn flutter, I will divide the roadmap into different levels..
 
 ### first if you are don't any thing about programing you will need to start from dart and need to solve some problems -->
+If you know any one programming language like C# , Java then you can grasp dart with within two to three days.
 
 ## Dart 
 

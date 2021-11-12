@@ -59,7 +59,7 @@ In this level you will Learn..
      
      
      
-- [x] After finishing this level you can be able to create beautiful static user interfaces.
+- :white_check_mark: After finishing this level you can be able to create beautiful static user interfaces.
 
 
 

@@ -50,8 +50,6 @@ In this level you will know
      
 - [x] After finishing this level you can be able to create beautiful static user interfaces.
 
-Basics styling widgets:
-
 #### English 
 - [Angela (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)
 - [Angela (Udemy course free)](https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277)

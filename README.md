@@ -8,7 +8,7 @@
 
 ## 1) Dart 
 
-In this level you will know 
+In this level you will Learn.. 
 1. Basics 
      - variables and data types.
      - Operators.
@@ -40,7 +40,7 @@ In this level you will know
 
 ## 2) Ui or Widgets
 
-In this level you will know 
+In this level you will Learn.. 
 
 1. Basics styling widgets: 
      - Basic widgets to style a static UI like Text, Container, Row, Column, Asset Image, Network Image, Stack etc.

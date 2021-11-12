@@ -16,7 +16,6 @@
 - [Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j/)
 - [Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9PcxE9vPtnfvGTm95STX65/)
 
-  
 
 #### Official docs
 - [A tour of the Dart language](https://dart.dev/guides/language/language-tour/)
@@ -26,16 +25,14 @@
 
 ## Ui or Widgets
 
+#### English 
+- [Angela (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ/)
+- [Angela (Udemy course free)](https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277/)
+
+#### Arabic
 - [Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL/)
 - [Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8eHn9nUACpBMfvCpgIdfiW/)
 
 
-
-Angela (Udemy course paid) https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ
-
-Angela (Udemy course free)  https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277
-
-
-official docs 
-
-Flutter documentation https://flutter.dev/docs
+#### Official docs
+- [Flutter documentation](https://flutter.dev/docs/)

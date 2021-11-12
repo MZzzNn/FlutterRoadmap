@@ -20,8 +20,7 @@ in this level you will know
      - Encapsulation.
      - Inheritance.
      - Polymorphism.
-###### If you are beginner and you don’t know any `OOP` concepts watch Mosh video about OOP concepts in general :
-[OOP in 7 minutes.] (https://www.youtube.com/watch?v=pTB0EiLXUC8)
+###### If you are beginner and you don’t know any `OOP` concepts watch Mosh video about OOP concepts in general : [OOP in 7 minutes.](https://www.youtube.com/watch?v=pTB0EiLXUC8)
 
 #### English 
 - [FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q/)

@@ -8,7 +8,7 @@
 
 ## 1) Dart 
 
-in this level you will know 
+In this level you will know 
 1. Basics 
      - variables and data types.
      - Operators.
@@ -37,6 +37,12 @@ in this level you will know
   
 
 ## 2) Ui or Widgets
+
+In this level you will know 
+      1. V
+      2.G
+     
+Basics styling widgets:
 
 #### English 
 - [Angela (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)

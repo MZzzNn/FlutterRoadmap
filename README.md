@@ -8,12 +8,12 @@
 ## Dart 
 
 #### English 
-[FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q/)
+- [FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q/)
 
 
 #### Arabic
-[Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j/)
-[Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9PcxE9vPtnfvGTm95STX65/)
+- [Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j/)
+- [Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9PcxE9vPtnfvGTm95STX65/)
 
   
 

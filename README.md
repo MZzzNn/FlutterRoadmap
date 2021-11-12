@@ -23,16 +23,16 @@ in this level you will know
 ###### If you are beginner and you don’t know any `OOP` concepts watch Mosh video about OOP concepts in general : [OOP in 7 minutes.](https://www.youtube.com/watch?v=pTB0EiLXUC8)
 
 #### English 
-- [FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q/)
+- [FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 
 
 #### Arabic
-- [Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j/)
-- [Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9PcxE9vPtnfvGTm95STX65/)
+- [Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j)
+- [Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9PcxE9vPtnfvGTm95STX65)
 
 
 #### Official docs
-- [A tour of the Dart language](https://dart.dev/guides/language/language-tour/)
+- [A tour of the Dart language](https://dart.dev/guides/language/language-tour)
 
   
 
@@ -40,12 +40,12 @@ in this level you will know
 ## Ui or Widgets
 
 #### English 
-- [Angela (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ/)
-- [Angela (Udemy course free)](https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277/)
+- [Angela (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)
+- [Angela (Udemy course free)](https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277)
 
 #### Arabic
-- [Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL/)
-- [Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8eHn9nUACpBMfvCpgIdfiW/)
+- [Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL)
+- [Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8eHn9nUACpBMfvCpgIdfiW)
 
 
 #### Official docs

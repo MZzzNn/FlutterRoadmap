@@ -45,7 +45,7 @@ In this level you will know
      - Know how to use assets(image, video, SVG, images ) and how to add using pubspec.yaml file.
 3. Types Of Widgets (StatelessWidget vs StatefulWidget):
      - Know the difference between stateless and statefull widgets.
-4. Navigation & Route
+4. Navigation & Route:
      - Know how to navigate to next screen and back top previous and how to create routes.
      
 - [x] After finishing this level you can be able to create beautiful static user interfaces.

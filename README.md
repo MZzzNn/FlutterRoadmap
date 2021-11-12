@@ -8,6 +8,14 @@
 
 ## Dart 
 
+in this level you will know 
+1. Basics 
+  - variables and data types
+  - Operators
+  - Comments
+  - Control flow statements
+  - Functions (parameters & its types) ,anonymous functions and fat arrow(=>) functions
+
 #### English 
 - [FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q/)
 

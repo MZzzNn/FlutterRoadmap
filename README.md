@@ -9,8 +9,6 @@
 ## Dart 
 
 in this level you will know 
-100. First list item
-     - First nested list item
 1. Basics 
      - variables and data types.
      - Operators.
@@ -22,6 +20,11 @@ in this level you will know
      - Encapsulation.
      - Inheritance.
      - Polymorphism.
+     - If you are beginner and you don’t know any OOP concepts watch Mosh video about OOP concepts in general :
+OOP in 7 minutes (YouTube tutorial)
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 #### English 
 - [FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q/)

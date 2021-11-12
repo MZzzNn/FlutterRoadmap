@@ -48,7 +48,7 @@ In this level you will know
 4. Navigation & Route
      - Know how to navigate to next screen and back top previous and how to create routes.
      
-- [x]  #### After you finish this level you can to create beautiful static user interfaces
+- [x] After you finish this level you can to create beautiful static user interfaces.
 
 Basics styling widgets:
 

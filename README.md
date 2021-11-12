@@ -15,7 +15,7 @@ in this level you will know
   - Comments.
   - Control flow statements.
   - Functions (parameters & its types) ,anonymous functions and fat arrow(=>) functions.
-2.OOP
+2. OOP
   - Abstraction.
   - Encapsulation.
   - Inheritance.

@@ -6,7 +6,7 @@
 - If you know any one programming language like C# , Java then you can grasp dart with within two to three days.
 - else you will need to study dart well and need to solve some problems then you will know ...
 
-## Dart 
+1. ## Dart 
 
 in this level you will know 
 1. Basics 
@@ -37,7 +37,7 @@ in this level you will know
   
 
 
-## Ui or Widgets
+2. ## Ui or Widgets
 
 #### English 
 - [Angela (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)

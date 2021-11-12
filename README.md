@@ -16,14 +16,12 @@ in this level you will know
      - Control flow statements.
      - Functions (parameters & its types) ,anonymous functions and fat arrow(=>) functions.
 2. OOP
-###### If you are beginner and you don’t know any OOP concepts watch Mosh video about OOP concepts in general :
-OOP in 7 minutes (YouTube tutorial)
      - Abstraction.
      - Encapsulation.
      - Inheritance.
      - Polymorphism.
-     
-Use `git status` to list all new or modified files that haven't yet been committed.
+###### If you are beginner and you don’t know any `OOP` concepts watch Mosh video about OOP concepts in general :
+[OOP in 7 minutes.] (https://www.youtube.com/watch?v=pTB0EiLXUC8)
 
 #### English 
 - [FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q/)

@@ -7,14 +7,15 @@
 
 ## Dart 
 
-### English 
+#### English 
 [FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q/)
 
 
-### Arabic
+#### Arabic
+[Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j/)
+[Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9PcxE9vPtnfvGTm95STX65/)
 
-Php Anonymous  https://www.youtube.com/playlist?list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j *-
-Muhammed Essa  https://www.youtube.com/playlist?list=PLMYF6NkLrdN9PcxE9vPtnfvGTm95STX65
+  
 
 Official docs
 A tour of the Dart language  https://dart.dev/guides/language/language-tour

@@ -25,6 +25,7 @@ OOP in 7 minutes (YouTube tutorial)
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+Use `git status` to list all new or modified files that haven't yet been committed.
 
 #### English 
 - [FreeCodeCamp dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q/)

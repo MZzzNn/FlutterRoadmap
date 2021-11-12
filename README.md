@@ -72,4 +72,4 @@ In this level you will Learn..
 
 
 #### Official docs
-- [Widget catalog (Flutter documentation)](https://flutter.dev/docs/)
+- [Widget catalog (Flutter docs)](https://flutter.dev/docs/)

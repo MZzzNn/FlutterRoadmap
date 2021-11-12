@@ -1,4 +1,4 @@
-# Flutter Roadmap & Resource Guide — 2022
+# Flutter Roadmap — 2022
 <!-- ## hi rh  -->
 ### let's start our journy to learn flutter, I will divide the roadmap into different levels..
 <!--

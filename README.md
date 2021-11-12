@@ -16,15 +16,13 @@ in this level you will know
      - Control flow statements.
      - Functions (parameters & its types) ,anonymous functions and fat arrow(=>) functions.
 2. OOP
+If you are beginner and you don’t know any OOP concepts watch Mosh video about OOP concepts in general :
+OOP in 7 minutes (YouTube tutorial)
      - Abstraction.
      - Encapsulation.
      - Inheritance.
      - Polymorphism.
-     - If you are beginner and you don’t know any OOP concepts watch Mosh video about OOP concepts in general :
-OOP in 7 minutes (YouTube tutorial)
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+     
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 #### English 

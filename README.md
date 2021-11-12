@@ -39,8 +39,9 @@ In this level you will know
 ## 2) Ui or Widgets
 
 In this level you will know 
-      1. V
-      2.G
+1. Basics styling widgets: 
+     - Basic widgets to style a static UI like Text, Container, Row, Column, Asset Image, Network Image, Stack etc.
+2. 
      
 Basics styling widgets:
 

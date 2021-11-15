@@ -6,7 +6,7 @@
 <!--
 ### first if you are don't any thing about programing you will need to start from dart and need to solve some problems -->
 - If you know any one programming language like C# , Java then you can grasp dart with within two to three days.
-- else you will need to study dart well and need to solve some problems then you will know ...
+- else you will need to study dart well and need to solve some problems then you will Learn..
 
 # Install flutter and dart
 - [install flutter in windows](https://www.youtube.com/watch?v=hKA36F0iews&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=5&t=146s)
@@ -81,3 +81,8 @@ In this level you will Learn.. ?
 
 #### Official docs
 - [Widget catalog (Flutter docs)](https://flutter.dev/docs/)
+
+##### you can see this playlist aftter learning basics to make ui easy and do 2 Apps.
+- [عالم البرمجة](https://www.youtube.com/playlist?list=PL42ydVea7qf6O79wCUaFmKUrejzH7FPb9)
+
+

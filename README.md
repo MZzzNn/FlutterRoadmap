@@ -8,6 +8,12 @@
 - If you know any one programming language like C# , Java then you can grasp dart with within two to three days.
 - else you will need to study dart well and need to solve some problems then you will know ...
 
+# Install flutter and dart
+- [install flutter in windows](https://www.youtube.com/watch?v=hKA36F0iews&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=5&t=146s)
+- [install flutter in mac](https://www.youtube.com/watch?v=_352tm2HL_Y&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=2)
+- [install flutter in linux mint](https://www.youtube.com/watch?v=g1R_9s5XsY8&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=3)
+
+
 ## 1) Dart 
 
 In this level you will Learn.. ?

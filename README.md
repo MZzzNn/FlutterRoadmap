@@ -14,16 +14,16 @@
 - [install flutter in linux mint](https://www.youtube.com/watch?v=g1R_9s5XsY8&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=3)
 
 
-## 1) Dart 
+# 1) Dart 
 
 In this level you will Learn.. ?
-### 1. Basics 
+## 1. Basics 
      - variables and data types.
      - Operators.
      - Comments.
      - Control flow statements.
      - Functions (parameters & its types) ,anonymous functions and fat arrow(=>) functions.
-### 2. OOP
+## 2. OOP
      - Abstraction.
      - Encapsulation.
      - Inheritance.
@@ -45,12 +45,12 @@ In this level you will Learn.. ?
 
 - [x] After finishing dart and opp you can be able to start learning flutter but it's important to learn ..
 
-### 3. Data Structures & Algorithms
+## 3. Data Structures & Algorithms
 
 #### Udacity 
 - [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
 
-### 4. Clean Code
+## 4. Clean Code
 
 #### Arabic
 - [Clean Code Book (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
@@ -60,7 +60,7 @@ In this level you will Learn.. ?
 
   
 
-## 2) Ui or Widgets
+# 2) Ui or Widgets
 
 In this level you will Learn.. ?
 

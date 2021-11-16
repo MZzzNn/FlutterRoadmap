@@ -79,7 +79,7 @@ In this level you will Learn.. ?
      
      
      
-- [x] ### After finishing this level you can be able to create beautiful static user interfaces.
+- [x] After finishing this level you can be able to create beautiful static user interfaces.
 
 
 

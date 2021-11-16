@@ -47,10 +47,11 @@ In this level you will Learn.. ?
 
 3. Data Structures & Algorithms
 
+
 #### Udacity 
 - [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
 
-3.Clean Code
+4. Clean Code
 
 #### Arabic
 - [Clean Code Book (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)

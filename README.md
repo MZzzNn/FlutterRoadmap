@@ -64,17 +64,17 @@ In this level you will Learn.. ?
 
 In this level you will Learn.. ?
 
-1. Basics styling widgets: 
-      - Basic widgets to style a static UI like Text, Container, Row, Column, Asset Image, Network Image, Stack etc.
+1. ### Basics styling widgets: 
+     ###### - Basic widgets to style a static UI like Text, Container, Row, Column, Asset Image, Network Image, Stack etc.
      
 2. ### Use of Assets in pubspec.yaml:
-     - Know how to use assets(image, video, SVG, images ) and how to add using pubspec.yaml file.
+     ###### - Know how to use assets(image, video, SVG, images ) and how to add using pubspec.yaml file.
      
 3. ### Types Of Widgets (StatelessWidget vs StatefulWidget):
-     - Know the difference between stateless and statefull widgets.
+     ###### - Know the difference between stateless and statefull widgets.
      
 4. ### Navigation & Route:
-     - Know how to navigate to next screen and back top previous and how to create routes.
+     ###### - Know how to navigate to next screen and back top previous and how to create routes.
      
      
      

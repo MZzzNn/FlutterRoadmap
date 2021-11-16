@@ -17,13 +17,13 @@
 ## 1) Dart 
 
 In this level you will Learn.. ?
-#### 1. Basics 
+### 1. Basics 
      - variables and data types.
      - Operators.
      - Comments.
      - Control flow statements.
      - Functions (parameters & its types) ,anonymous functions and fat arrow(=>) functions.
-###### 2. OOP
+### 2. OOP
      - Abstraction.
      - Encapsulation.
      - Inheritance.
@@ -79,7 +79,7 @@ In this level you will Learn.. ?
      
      
      
-- [x] After finishing this level you can be able to create beautiful static user interfaces.
+- [x] ### After finishing this level you can be able to create beautiful static user interfaces.
 
 
 

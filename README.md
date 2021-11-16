@@ -45,13 +45,12 @@ In this level you will Learn.. ?
 
 - [x] After finishing dart and opp you can be able to start learning flutter but it's important to learn ..
 
-3. Data Structures & Algorithms
-
+3. ### Data Structures & Algorithms
 
 #### Udacity 
 - [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
 
-4. Clean Code
+4. ### Clean Code
 
 #### Arabic
 - [Clean Code Book (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)

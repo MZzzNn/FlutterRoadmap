@@ -42,8 +42,22 @@ In this level you will Learn.. ?
 #### Official docs
 - [A tour of the Dart language](https://dart.dev/guides/language/language-tour)
 
-  
-  
+
+- [x] After finishing dart and opp you can be able to start learning flutter but it's important to learn ..
+
+3. Data Structures & Algorithms
+
+#### Udacity 
+- [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
+
+3.Clean Code
+
+#### Arabic
+- [Clean Code Book (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
+
+#### Books
+- [Clean Code](https://drive.google.com/file/d/1GNsuFHhgPqmo52VqprhSfqrUyDtWnf1j/view)
+
   
 
 ## 2) Ui or Widgets

@@ -108,16 +108,15 @@ In this level you will Learn.. ?
 ## 7) State Management
 ## 9) Publish App
 
+  
+
+## Roadmap :
+![This is Roadmap image](https://miro.medium.com/max/2000/1*aawXvzNEqzcW6tQFISwCFg.png)
 
 # Contact Me 📱
 
 <a href="" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
  <a href="" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-
-  
-
-## Roadmap :
-![This is Roadmap image](https://miro.medium.com/max/2000/1*aawXvzNEqzcW6tQFISwCFg.png)
 
 
 

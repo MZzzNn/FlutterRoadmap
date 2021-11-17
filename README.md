@@ -110,6 +110,7 @@ In this level you will Learn.. ?
 
 
 # Contact Me 📱
+
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -128,6 +129,7 @@ In this level you will Learn.. ?
 <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 
 ## Roadmap :
 ![This is Roadmap image](https://miro.medium.com/max/2000/1*aawXvzNEqzcW6tQFISwCFg.png)

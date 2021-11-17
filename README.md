@@ -102,12 +102,13 @@ In this level you will Learn.. ?
 ## 2) Map
 
 ## 3) Database
-## 4) State Management
-## 5) Api
-## 6) Firebase
-## 7) Firebase
+## 4) Api
+## 5) Firebase
+## 6) Architecture pattern
+## 7) State Management
+## 9) Publish App
 
-
+## 10) Roadmap :
 ![This is Roadmap image](https://miro.medium.com/max/2000/1*aawXvzNEqzcW6tQFISwCFg.png)
 
 

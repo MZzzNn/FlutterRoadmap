@@ -106,6 +106,8 @@ In this level you will Learn.. ?
 ## 5) Firebase
 ## 6) Architecture pattern
 ## 7) State Management
+- [Flutter BLoc (Movies App Api)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB)
+
 ## 9) Publish App
 
   

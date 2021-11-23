@@ -24,10 +24,11 @@ In this level you will Learn.. ?
      - Control flow statements.
      - Functions (parameters & its types) ,anonymous functions and fat arrow(=>) functions.
 ### 2. OOP
-     - Abstraction.
-     - Encapsulation.
-     - Inheritance.
-     - Polymorphism.
+     - Classes and objects
+     - constructors
+     - Getters setters
+     - Encapsulation, Polymorphism, Abstraction, Inheritance
+     - Abstract classes and interfaces etc.
 ###### If you are beginner and you don’t know any `OOP` concepts watch Mosh video about OOP concepts in general : [OOP in 7 minutes.](https://www.youtube.com/watch?v=pTB0EiLXUC8)
 
 #### English 

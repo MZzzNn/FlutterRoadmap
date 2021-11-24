@@ -30,7 +30,7 @@ including camera, storage, geolocation, network, third-party SDKs, and more.
 - [install flutter in linux mint](https://www.youtube.com/watch?v=g1R_9s5XsY8&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=3)
 
 
-# 1) Dart 
+# :one:) Dart 
 
 In this level you will Learn.. ?
 ### 1. Basics 
@@ -77,7 +77,7 @@ In this level you will Learn.. ?
 
   
 
-# 2) Ui or Widgets
+# :two:) Ui or Widgets
 
 In this level you will Learn.. ?
 

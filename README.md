@@ -1,7 +1,7 @@
 # Flutter Roadmap — 2022
 ![This is an image](https://cambiodigital-ol.com/wp-content/uploads/2021/09/Flutter.jpeg)
 
-# What is flutter?
+# :pushpin: What is flutter?
 - Flutter is a UI toolkit for creating fast, beautiful, natively compiled mobile applications with one programming language and a single codebase,
 This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
 - It is an open-source development framework developed by Google and released in May 2017. Generally, Flutter is not a language; it is an SDK(Software Development Kit).

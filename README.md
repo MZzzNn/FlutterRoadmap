@@ -30,7 +30,7 @@ including camera, storage, geolocation, network, third-party SDKs, and more.
 - [install flutter in linux mint](https://www.youtube.com/watch?v=g1R_9s5XsY8&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=3)
 
 
-# :one:) Dart 
+# :one: Dart 
 
 In this level you will Learn.. ?
 ### 1. Basics 
@@ -77,7 +77,7 @@ In this level you will Learn.. ?
 
   
 
-# :two:) Ui or Widgets
+# :two: Ui or Widgets
 
 In this level you will Learn.. ?
 
@@ -116,16 +116,16 @@ In this level you will Learn.. ?
 ##### you can see this playlist aftter learning basics to make ui easy and do 2 Apps.
 - [Programming world](https://www.youtube.com/playlist?list=PL42ydVea7qf6O79wCUaFmKUrejzH7FPb9)
 
-## 2) Map
-
-## 3) Database
-## 4) Api
-## 5) Firebase
-## 6) Architecture pattern
-## 7) State Management
+## :three: Map
+## :four:	Database
+## :five: Api
+## :six: Firebase
+## :seven: Architecture pattern
+## :eight: State Management
 - [Flutter BLoc (Movies App Api)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB)
 
-## 9) Publish App
+## :nine: Animation
+## :keycap_ten: Publish App
 
   
 

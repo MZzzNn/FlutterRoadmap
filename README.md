@@ -116,12 +116,12 @@ In this level you will Learn.. ?
 ##### you can see this playlist aftter learning basics to make ui easy and do 2 Apps.
 - [Programming world](https://www.youtube.com/playlist?list=PL42ydVea7qf6O79wCUaFmKUrejzH7FPb9)
 
-## :three: Map
-## :four:	Database
-## :five: Api
-## :six: Firebase
-## :seven: Architecture pattern
-## :eight: State Management
+# :three: Map
+# :four:	Database
+# :five: Api
+# :six: Firebase
+# :seven: Architecture pattern
+# :eight: State Management
 - [Flutter BLoc (Movies App Api)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB)
 
 ## :nine: Animation

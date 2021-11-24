@@ -75,7 +75,17 @@ In this level you will Learn.. ?
 
 --- 
 
-## 4. Clean Code
+## 4. SOLID Principles
+
+#### Arabic
+- [SOLID Principles (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
+
+#### ARTICLE
+- [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#dependency-inversion-principle)
+
+--- 
+
+## 5. Clean Code
 
 #### Arabic
 - [Clean Code Book (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)

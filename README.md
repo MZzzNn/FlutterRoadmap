@@ -2,10 +2,20 @@
 ![This is an image](https://cambiodigital-ol.com/wp-content/uploads/2021/09/Flutter.jpeg)
 
 # What is flutter?
-- Flutter is a UI toolkit developed by Google for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. The popularity of Flutter along with its demand is just going up. So, in this tutorial, I want to show you a Beginner Roadmap to becoming Flutter Developer – Updated 2021.
+- Flutter is a UI toolkit for creating fast, beautiful, natively compiled mobile applications with one programming language and a single codebase,
+This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
+- It is an open-source development framework developed by Google and released in May 2017. Generally, Flutter is not a language; it is an SDK(Software Development Kit).
+- Flutter apps use Dart programming language for creating an app.
+- Flutter is mainly optimized for 2D mobile apps that can run on both Android and iOS platforms. We can also use it to build full-featured apps,
+including camera, storage, geolocation, network, third-party SDKs, and more.
 
 
+#  What is Dart?
+- Dart is a general-purpose, object-oriented programming language with C-style syntax. 
+- It is open-source and developed by Google and released in 2011. 
+- The purpose of Dart programming is to create a frontend user interfaces for the web and mobile apps. 
 
+## There is no specific road map to learn Flutter. but I will recommend some resource.
 <!-- ## hi rh  ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazen-mo7amed&show_icons=true) -->
 ### let's start our journy to learn flutter, I will divide the roadmap into different levels..
 <!--

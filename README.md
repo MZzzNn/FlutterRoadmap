@@ -1,6 +1,8 @@
 # Flutter Roadmap — 2022
 ![This is an image](https://cambiodigital-ol.com/wp-content/uploads/2021/09/Flutter.jpeg)
 
+## :white_check_mark: There is no specific road map to learn Flutter. but I will suggest some resource. :mag_right:	
+
 # :pushpin: What is flutter?
 - Flutter is a UI toolkit for creating fast, beautiful, natively compiled mobile applications with one programming language and a single codebase,
 This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
@@ -15,7 +17,6 @@ including camera, storage, geolocation, network, third-party SDKs, and more.
 - It is open-source and developed by Google and released in 2011. 
 - The purpose of Dart programming is to create a frontend user interfaces for the web and mobile apps. 
 
-## :ballot_box_with_check: There is no specific road map to learn Flutter. but I will suggest some resource. :mag_right:	
 <!-- ## hi rh  ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazen-mo7amed&show_icons=true) -->
 ## :rocket: let's start our journy to learn flutter, I will divide the roadmap into different levels..
 <!--

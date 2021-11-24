@@ -1,7 +1,7 @@
 # Flutter Roadmap — 2022
 ![This is an image](https://cambiodigital-ol.com/wp-content/uploads/2021/09/Flutter.jpeg)
 
-<h1>:white_check_mark: There is no specific road map to learn Flutter. but I will suggest some resource. :mag_right: </h1>	
+# :white_check_mark: There is no specific road map to learn Flutter. but I will suggest some resource. :mag_right: 
 
 # :pushpin: What is flutter?
 - Flutter is a UI toolkit for creating fast, beautiful, natively compiled mobile applications with one programming language and a single codebase,

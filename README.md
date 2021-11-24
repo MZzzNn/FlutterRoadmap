@@ -1,6 +1,11 @@
 # Flutter Roadmap — 2022
 ![This is an image](https://cambiodigital-ol.com/wp-content/uploads/2021/09/Flutter.jpeg)
 
+# What is flutter?
+- Flutter is a UI toolkit developed by Google for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. The popularity of Flutter along with its demand is just going up. So, in this tutorial, I want to show you a Beginner Roadmap to becoming Flutter Developer – Updated 2021.
+
+
+
 <!-- ## hi rh  ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazen-mo7amed&show_icons=true) -->
 ### let's start our journy to learn flutter, I will divide the roadmap into different levels..
 <!--

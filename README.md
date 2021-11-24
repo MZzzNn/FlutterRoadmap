@@ -93,8 +93,7 @@ In this level you will Learn.. ?
 #### 4. Navigation & Route:
        - Know how to navigate to next screen and back top previous and how to create routes.
      
-     
-     
+--- 
      
 - [x] After finishing this level you can be able to create beautiful static user interfaces.
 
@@ -124,8 +123,8 @@ In this level you will Learn.. ?
 # :eight: State Management
 - [Flutter BLoc (Movies App Api)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB)
 
-## :nine: Animation
-## :keycap_ten: Publish App
+# :nine: Animation
+# :keycap_ten: Publish App
 
   
 

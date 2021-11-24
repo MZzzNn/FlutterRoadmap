@@ -39,6 +39,9 @@ In this level you will Learn.. ?
      - Comments.
      - Control flow statements.
      - Functions (parameters & its types) ,anonymous functions and fat arrow(=>) functions.
+     
+--- 
+     
 ### 2. OOP
      - Classes and objects
      - constructors
@@ -59,13 +62,18 @@ In this level you will Learn.. ?
 #### Official docs
 - [A tour of the Dart language](https://dart.dev/guides/language/language-tour)
 
+--- 
 
 - [x] After finishing dart and opp you can be able to start learning flutter but it's important to learn ..
+
+--- 
 
 ## 3. Data Structures & Algorithms
 
 #### Udacity 
 - [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
+
+--- 
 
 ## 4. Clean Code
 

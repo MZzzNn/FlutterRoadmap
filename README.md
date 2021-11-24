@@ -15,7 +15,7 @@ including camera, storage, geolocation, network, third-party SDKs, and more.
 - It is open-source and developed by Google and released in 2011. 
 - The purpose of Dart programming is to create a frontend user interfaces for the web and mobile apps. 
 
-## There is no specific road map to learn Flutter. but I will recommend some resource.
+## There is no specific road map to learn Flutter. but I will suggest some resource .
 <!-- ## hi rh  ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazen-mo7amed&show_icons=true) -->
 ### let's start our journy to learn flutter, I will divide the roadmap into different levels..
 <!--

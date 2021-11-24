@@ -10,7 +10,7 @@ This means that you can use one programming language and one codebase to create 
 including camera, storage, geolocation, network, third-party SDKs, and more.
 
 
-# :pushpin: What is Dart?
+# :dart: What is Dart?
 - Dart is a general-purpose, object-oriented programming language with C-style syntax. 
 - It is open-source and developed by Google and released in 2011. 
 - The purpose of Dart programming is to create a frontend user interfaces for the web and mobile apps. 

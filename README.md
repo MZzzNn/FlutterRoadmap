@@ -134,8 +134,10 @@ In this level you will Learn.. ?
 - [Programming world](https://www.youtube.com/playlist?list=PL42ydVea7qf6O79wCUaFmKUrejzH7FPb9)
 
 # :three: Map
-- [Code2Start](https://www.youtube.com/playlist?list=PL3aG1K3LWCrdRIoo-AxecQBrvxN3S23s9)
+#### English 
 - [Google Maps Tutorial](https://meowing-penguin-975.notion.site/8f89a3f59e3f467985778dee0e2c9c72?v=6ff2514af645482ab882769ddac7a880)
+#### Arabic
+- [Code2Start](https://www.youtube.com/playlist?list=PL3aG1K3LWCrdRIoo-AxecQBrvxN3S23s9)
 
 
 # :four:	Database

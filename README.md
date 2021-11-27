@@ -151,13 +151,18 @@ If you want to use data live from internet within your app you need to learn ?
 
 #### English 
 - [REST API integration with Flutter using http package](https://www.youtube.com/watch?v=1rXFKhBZXxY)
-- [Angela (sec 13)](https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277)
-#### Arabic
+- [Angela (sec 13) (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)
+     - [Angela (sec 13) (Udemy course free)](https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277)
+ 
+ #### Arabic
 - [REST API for beginner](https://www.youtube.com/playlist?list=PLQdvu4PArdoINvwPRMk07bFFQKLQ6aV3f)
+- [Abdullah Mansour (sec 6 & 7) (Udemy course paid)](https://www.udemy.com/course/complete-flutter-arabic/)
+
 
 #### Official docs
 - [Fetch data from the internet (Flutter docs)](https://docs.flutter.dev/cookbook/networking/fetch-data)
 - [JSON and serialization (Flutter docs)](https://docs.flutter.dev/development/data-and-backend/json)
+
 #### ARTICLE
 - [LEARN HTTP REQUEST IN FLUTTER](https://instacodeblog.com/learn-http-request-in-flutter-with-api-call/)
 - [The easiest way to call Rest APIs](https://medium.com/mindful-engineering/retrofit-the-easiest-way-to-call-rest-apis-is-flutter-fe55d1e7c5c2)

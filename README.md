@@ -142,8 +142,26 @@ In this level you will Learn.. ?
 
 # :four:	Database
 # :five: Api
+If you want to use data live from internet within your app you need to learn
+#### 1. how to call REST API’s
+#### 2. make a Model for the request and response
+#### 3. Parsing JSON data into dart objects
+#### 3. HTTP requests.(post, delete, get, put)
+
+
+#### English 
+- [REST API integration with Flutter using http package](https://www.youtube.com/watch?v=1rXFKhBZXxY)
+
 #### Arabic
 - [REST API for beginner](https://www.youtube.com/playlist?list=PLQdvu4PArdoINvwPRMk07bFFQKLQ6aV3f)
+
+#### Official docs
+- [Fetch data from the internet (Flutter docs)](https://docs.flutter.dev/cookbook/networking/fetch-data)
+- [JSON and serialization (Flutter docs)](https://docs.flutter.dev/development/data-and-backend/json)
+#### ARTICLE
+- [LEARN HTTP REQUEST IN FLUTTER](https://instacodeblog.com/learn-http-request-in-flutter-with-api-call/)
+- [The easiest way to call Rest APIs](https://medium.com/mindful-engineering/retrofit-the-easiest-way-to-call-rest-apis-is-flutter-fe55d1e7c5c2)
+
 
 # :six: Firebase
 # :seven: Architecture pattern

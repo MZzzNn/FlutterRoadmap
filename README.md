@@ -142,6 +142,9 @@ In this level you will Learn.. ?
 
 # :four:	Database
 # :five: Api
+#### Arabic
+- [REST API for beginner](https://www.youtube.com/playlist?list=PLQdvu4PArdoINvwPRMk07bFFQKLQ6aV3f)
+
 # :six: Firebase
 # :seven: Architecture pattern
 # :eight: State Management

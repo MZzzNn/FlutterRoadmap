@@ -88,6 +88,15 @@ In this level you will Learn.. ?
 --- 
 
 ## 5. Clean Code
+### Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.
+
+you will Learn.. ?
+#### - How to tell the difference between good and bad code.
+#### - How to write good code and how to transform bad code into good code.
+#### - How to create good names, good functions, good objects, and good classes.
+#### - How to format code for maximum readability.
+#### - How to implement complete error handling without obscuring code logic.
+#### - How to unit test and practice test-driven development.
 
 #### Arabic
 - [Clean Code Book (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)

@@ -90,7 +90,6 @@ In this level you will Learn.. ?
 ## 5. Clean Code
 ### Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.
 
-you will Learn.. ?
      ##### - How to tell the difference between good and bad code.
      ##### - How to write good code and how to transform bad code into good code.
      ##### - How to create good names, good functions, good objects, and good classes.

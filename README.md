@@ -93,8 +93,8 @@ In this level you will Learn.. ?
 - [Clean Code Book (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
 #### Books
-- [Clean Code](https://drive.google.com/file/d/1GNsuFHhgPqmo52VqprhSfqrUyDtWnf1j/view)
-
+- [A Handbook of Agile Software Craftsmanship (paid)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+     - [A Handbook of Agile Software Craftsmanship (free)](https://drive.google.com/file/d/1GNsuFHhgPqmo52VqprhSfqrUyDtWnf1j/view)
   
 
 # :two: Ui or Widgets

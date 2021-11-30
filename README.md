@@ -76,6 +76,8 @@ In this level you will Learn.. ?
 --- 
 
 ## 4. SOLID Principles
+###The SOLID Principles are five principles of Object-Oriented class design. They are a set of rules and best practices to follow while designing a class structure.
+
 
 #### Arabic
 - [SOLID Principles (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)

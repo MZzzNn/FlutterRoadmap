@@ -186,7 +186,7 @@ If you want to use data live from internet within your app you need to learn ?
 
 # :nine: Animation
 # :keycap_ten: Publish App
-### How To Publish Flutter App On Google Play Store and App Store.
+### How To Publish your App On Google Play Store and App Store ?
 #### English 
 - [Google Play Store](https://www.youtube.com/watch?v=g0GNuoCOtaQ)
 - [App Store](https://www.youtube.com/watch?v=akFF1uJWZck)

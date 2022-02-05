@@ -180,6 +180,8 @@ If you want to use data live from internet within your app you need to learn ?
 
 
 # :six: Firebase
+- [Wael abo hamza (Firebase)](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH)
+
 # :seven: Architecture pattern
 # :eight: State Management
 - [Flutter BLoc (Movies App Api)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB)

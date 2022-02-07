@@ -186,7 +186,9 @@ If you want to use data live from internet within your app you need to learn ?
 # :eight: State Management
 
 - [introduction to State Management (Ahmed Abu Eldahab)](https://www.youtube.com/watch?v=TI1XovoHejA)
+- [difference between SetState, Provider, GetX , Cubit and Bloc](https://www.youtube.com/watch?v=Gximhw_pCII) 
 
+- #### 1. BLoc
 - [Flutter BLoc (Movies App Api)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB)
 
 # :nine: Animation

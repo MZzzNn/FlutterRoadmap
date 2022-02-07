@@ -184,6 +184,9 @@ If you want to use data live from internet within your app you need to learn ?
 
 # :seven: Architecture pattern
 # :eight: State Management
+
+- [introduction to State Management (Ahmed Abu Eldahab)](https://www.youtube.com/watch?v=TI1XovoHejA)
+
 - [Flutter BLoc (Movies App Api)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB)
 
 # :nine: Animation

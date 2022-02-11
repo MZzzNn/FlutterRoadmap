@@ -73,8 +73,9 @@ In this level you will Learn.. ?
 #### Udacity 
 - [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
 
+#### Books
+- [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 --- 
-
 ## 4. SOLID Principles
 ### The SOLID Principles are five principles of Object-Oriented class design. They are a set of rules and best practices to follow while designing a class structure.
 

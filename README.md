@@ -190,9 +190,15 @@ If you want to use data live from internet within your app you need to learn ?
 - [difference between SetState, Provider, GetX , Cubit and Bloc](https://www.youtube.com/watch?v=Gximhw_pCII) 
 
 #### 1. Provider
+- [Wael abo hamza](https://www.youtube.com/playlist?list=PL93xoMrxRJIviJiC76oO5aV8bDp2s3OrA)
+- [hassan falah  (Udemy course paid)](https://www.udemy.com/course/fluttercourse/)
+
 #### 2. Cubit
 - [Flutter BLoc (Movies App Api)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB)
+- [Abdullah Mansour (Udemy course paid)](https://www.udemy.com/course/complete-flutter-arabic/)
+
 #### 3. GetX
+- [hassan falah (sec 9 & 13) (Udemy course paid)](https://www.udemy.com/course/fluttercourse/)
 #### 4. BLoc
 
 

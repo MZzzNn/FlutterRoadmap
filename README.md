@@ -182,6 +182,8 @@ If you want to use data live from internet within your app you need to learn ?
 
 # :six: Firebase
 - [Wael abo hamza (Firebase)](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH)
+- [Abdullah Mansour (Udemy course paid)](https://www.udemy.com/course/complete-flutter-arabic/)
+- [hassan falah  (Udemy course paid)](https://www.udemy.com/course/fluttercourse/)
 
 # :seven: Architecture pattern
 # :eight: State Management

@@ -212,7 +212,8 @@ If you want to use data live from internet within your app you need to learn ?
 - [Google Play Store](https://www.youtube.com/watch?v=g0GNuoCOtaQ)
 - [App Store](https://www.youtube.com/watch?v=akFF1uJWZck)
 
-
+ #### Arabic
+- [Google Play Store](https://www.youtube.com/watch?v=_enL3bRiHVI)
   
 
 ## Roadmap :

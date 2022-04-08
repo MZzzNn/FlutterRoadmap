@@ -272,6 +272,8 @@ If you want to use data live from internet within your app you need to learn ?
 
 
 ## 6. Architecture pattern
+#### Arabic
+- [android architecture patterns](https://www.youtube.com/playlist?list=PLXjbGq0ERjFoCtb7aH910dtddLePNI6w7)
 
 
 <br>

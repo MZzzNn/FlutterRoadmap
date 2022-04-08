@@ -224,8 +224,15 @@ In this level you will Learn... ?
 
 ## 3. Database
 
-#### 1. Hive
-- [Hive NoSQL Database](https://www.youtube.com/watch?v=w8cZKm9s228)
+#### ARTICLE
+- [Choosing the right database](https://blog.codemagic.io/choosing-the-right-database-for-your-flutter-app/)
+
+#### 1. Relational :
+
+#### 2. NoSQL :
+   - **1. Hive**
+     - [Hive NoSQL Database](https://www.youtube.com/watch?v=w8cZKm9s228)
+
 
 <br>
 

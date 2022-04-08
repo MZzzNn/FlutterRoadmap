@@ -230,7 +230,7 @@ In this level you will Learn... ?
 #### 1. Relational :
 
 #### 2. NoSQL :
-   - **1. Hive**
+   - **Hive**
      - [Hive NoSQL Database](https://www.youtube.com/watch?v=w8cZKm9s228)
 
 
@@ -313,6 +313,8 @@ If you want to use data live from internet within your app you need to learn ?
 
 ## 8. Animation
 
+#### Arabic
+- [hassan falah (sec 10) (Udemy course paid)](https://www.udemy.com/course/fluttercourse/learn/lecture/22446972#notes)
 
 <br>
 

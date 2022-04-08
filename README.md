@@ -27,6 +27,7 @@
 
 
 <br>
+<br>
 
 
 ### :rocket: let's start our journey to learn flutter, I will divide the roadmap into different levels..
@@ -34,29 +35,32 @@
 - If you know any one programming language like C# , Java then you can grasp dart with within two to three days.
 - else you will need to study dart well and need to solve some problems then you will Learn.
 
+<br>
+
 ## Content
 
 [**Install flutter and dart**](https://github.com/mazen-mo7amed/FlutterRoadmap#Install-flutter-and-dart)
 
-[**Dart**](https://github.com/mazen-mo7amed/FlutterRoadmap#dart)
-- [Basics](https://github.com/mazen-mo7amed/FlutterRoadmap#1.-Basics)
-- [OOP](https://github.com/mazen-mo7amed/FlutterRoadmap#2.-OOP)
-- [Data Structures & Algorithms](https://github.com/mazen-mo7amed/FlutterRoadmap#3.-Data-Structures-&-Algorithms)
-- [SOLID Principles](https://github.com/mazen-mo7amed/FlutterRoadmap#4.-SOLID-Principles)
-- [Clean Code](https://github.com/mazen-mo7amed/FlutterRoadmap#5.-Clean-Code)
+[**Dart**](https://github.com/mazen-mo7amed/FlutterRoadmap#dart-)
+- [Basics](https://github.com/mazen-mo7amed/FlutterRoadmap#1-basics)
+- [OOP](https://github.com/mazen-mo7amed/FlutterRoadmap#2-OOP)
+- [Data Structures & Algorithms](https://github.com/mazen-mo7amed/FlutterRoadmap#3-data-structures--algorithms)
+- [SOLID Principles](https://github.com/mazen-mo7amed/FlutterRoadmap#4-SOLID-Principles)
+- [Clean Code](https://github.com/mazen-mo7amed/FlutterRoadmap#5-Clean-Code)
 
-[**Flutter**](https://github.com/mazen-mo7amed/FlutterRoadmap#Flutter)
-- [Widgets & Ui](https://github.com/mazen-mo7amed/FlutterRoadmap#arrays)
-- [Map](https://github.com/mazen-mo7amed/FlutterRoadmap#trees)
-- [Database](https://github.com/mazen-mo7amed/FlutterRoadmap#trees)
-- [Api](https://github.com/mazen-mo7amed/FlutterRoadmap#stacks)
-- [Firebase](https://github.com/mazen-mo7amed/FlutterRoadmap#queues)
-- [Architecture pattern](https://github.com/mazen-mo7amed/FlutterRoadmap#queues)
-- [State Management](https://github.com/mazen-mo7amed/FlutterRoadmap#queues)
-- [Animation](https://github.com/mazen-mo7amed/FlutterRoadmap#queues)
-- [Publish App](https://github.com/mazen-mo7amed/FlutterRoadmap#queues)
+[**Flutter**](https://github.com/mazen-mo7amed/FlutterRoadmap#Flutter-)
+- [Widgets & Ui](https://github.com/mazen-mo7amed/FlutterRoadmap#1-widgets--ui)
+- [Map](https://github.com/mazen-mo7amed/FlutterRoadmap#2-map)
+- [Database](https://github.com/mazen-mo7amed/FlutterRoadmap#3-Database)
+- [Api](https://github.com/mazen-mo7amed/FlutterRoadmap#4-Api)
+- [Firebase](https://github.com/mazen-mo7amed/FlutterRoadmap#5-Firebase)
+- [Architecture pattern](https://github.com/mazen-mo7amed/FlutterRoadmap#6-Architecture-pattern)
+- [State Management](https://github.com/mazen-mo7amed/FlutterRoadmap#7-State-Management)
+- [Animation](https://github.com/mazen-mo7amed/FlutterRoadmap#8-Animation)
+- [Publish App](https://github.com/mazen-mo7amed/FlutterRoadmap#9-Publish-App)
 
 
+<br>
 <br>
 
 
@@ -69,10 +73,10 @@
 <br>
 
 
-## Dart :
-
+# Dart :
 In this level you will Learn... ?
-### 1. Basics
+
+## 1. Basics
 - variables and data types.
 - Operators.
 - Comments.
@@ -81,7 +85,7 @@ In this level you will Learn... ?
 
 <br>
 
-### 2. OOP
+## 2. OOP
 - Classes and objects
 - constructors
 - Getters setters
@@ -115,7 +119,7 @@ In this level you will Learn... ?
 
 
 
-### 3. Data Structures & Algorithms
+## 3. Data Structures & Algorithms
 
 #### Udacity
 - [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
@@ -127,9 +131,10 @@ In this level you will Learn... ?
 <br>
 
 
-### 4. SOLID Principles
-**The SOLID Principles** are five principles of Object-Oriented class design. They are a set of rules and best practices to follow while designing a class structure.
+## 4. SOLID Principles
+**The SOLID Principles** are five principles of Object-Oriented class design. They are a set of rules and best practices following while designing a class structure.
 
+<br>
 
 #### Arabic
 - [SOLID Principles (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
@@ -141,7 +146,7 @@ In this level you will Learn... ?
 <br>
 
 
-### 5. Clean Code
+## 5. Clean Code
 Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees.
 Every year, countless hours and significant resources are lost because of poorly written code But it doesn’t have to be that way.
 
@@ -152,6 +157,8 @@ Every year, countless hours and significant resources are lost because of poorly
 - How to format code for maximum readability.
 - How to implement complete error handling without obscuring code logic.
 - How to unit test and practice test-driven development.
+
+<br>
 
 #### Arabic
 - [Clean Code Book (Omar Ahmed)](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
@@ -164,11 +171,12 @@ Every year, countless hours and significant resources are lost because of poorly
 <br>
 <br>
 
+---
 
-
-## Flutter :
+# Flutter :
 In this level you will Learn... ?
-### 1. Widgets & Ui
+
+## 1. Widgets & Ui
 - 1. Basics styling widgets:
   - Basic widgets to style a static UI like Text, Container, Row, Column, Asset Image, Network Image, Stack etc.
 - 2. Use of Assets in pubspec.yaml:
@@ -177,7 +185,8 @@ In this level you will Learn... ?
   - Know the difference between stateless and stateful widgets.
 - 4. Navigation & Route:
   - Know how to navigate to next screen and back top previous and how to create routes.
-  
+
+<br>
 
 #### English
 - [Flutter widget of the week](https://www.youtube.com/watch?v=b_sQ9bMltGU)
@@ -195,14 +204,15 @@ In this level you will Learn... ?
 ##### you can see this playlist after learning basics to make ui easy and do 2 Apps.
 - [Programming world](https://www.youtube.com/playlist?list=PL42ydVea7qf6O79wCUaFmKUrejzH7FPb9)
 
+<br>
 
-### [x] After finishing this level you can be able to create beautiful static user interfaces.
-
+- [x] **After finishing this level you can be able to create beautiful static user interfaces.**
 
 <br>
 
 
-### 2. Map
+## 2. Map
+
 #### English
 - [Google Maps Tutorial](https://meowing-penguin-975.notion.site/8f89a3f59e3f467985778dee0e2c9c72?v=6ff2514af645482ab882769ddac7a880)
 #### Arabic
@@ -218,12 +228,14 @@ In this level you will Learn... ?
 <br>
 
 
-### 4. Api
+## 4. Api
 If you want to use data live from internet within your app you need to learn ?
 - 1. how to call REST API’s
 - 2. make a Model for the request and response
 - 3. Parsing JSON data into dart objects
 - 3. HTTP requests.(post, delete, get, put)
+
+<br>
 
 
 #### English
@@ -248,7 +260,9 @@ If you want to use data live from internet within your app you need to learn ?
 <br>
 
 
-### 5. Firebase
+## 5. Firebase
+
+#### Arabic
 - [Wael abo hamza (Firebase)](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH)
 - [Abdullah Mansour (Udemy course paid)](https://www.udemy.com/course/complete-flutter-arabic/)
 - [hassan falah  (Udemy course paid)](https://www.udemy.com/course/fluttercourse/)
@@ -257,16 +271,18 @@ If you want to use data live from internet within your app you need to learn ?
 <br>
 
 
-### 6. Architecture pattern
+## 6. Architecture pattern
 
 
 <br>
 
 
-### 7. State Management
+## 7. State Management
 
 - [introduction to State Management (Ahmed Abu Eldahab)](https://www.youtube.com/watch?v=TI1XovoHejA)
 - [difference between SetState, Provider, GetX , Cubit and Bloc](https://www.youtube.com/watch?v=Gximhw_pCII)
+
+<br>
 
 #### 1. Provider
 - [Wael abo hamza](https://www.youtube.com/playlist?list=PL93xoMrxRJIviJiC76oO5aV8bDp2s3OrA)
@@ -284,14 +300,17 @@ If you want to use data live from internet within your app you need to learn ?
 <br>
 
 
-### 8. Animation
+## 8. Animation
 
 
 <br>
 
 
-### 9. Publish App
+## 9. Publish App
 How To Publish your App On Google Play Store and App Store ?
+
+<br>
+
 #### English
 - [Google Play Store](https://www.youtube.com/watch?v=g0GNuoCOtaQ)
 - [App Store](https://www.youtube.com/watch?v=akFF1uJWZck)
@@ -301,13 +320,15 @@ How To Publish your App On Google Play Store and App Store ?
 
 <br>
 
-
-## Roadmap :
-![This is Roadmap image](https://miro.medium.com/max/2000/1*aawXvzNEqzcW6tQFISwCFg.png)
-
 # Contact Me 📱
 
 <a href="https://www.facebook.com/MaZenn.mo7amed/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/MZzzNn_" title="twitter"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2F%3Flabel%3Dtwitter%26style%3Dsocial"/></a>
 <a href="https://www.linkedin.com/in/mazen-mohamed0/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+
+<br>
+
+
+## Roadmap :
+![This is Roadmap image](https://miro.medium.com/max/2000/1*aawXvzNEqzcW6tQFISwCFg.png)
 

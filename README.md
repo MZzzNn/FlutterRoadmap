@@ -3,41 +3,24 @@
   <a href="https://flutter.dev/docs/"><img src="assets/images/logo_flutter.svg" width="400px" height="200px" alt="Flutter"></a>
 </p>
 
-<!--![This is an image](https://cambiodigital-ol.com/wp-content/uploads/2021/09/Flutter.jpeg)-->
-
-# Flutter Roadmap — 2022
+<!--![This is an image](https://cambiodigital-ol.com/wp-content/uploads/2021/09/Flutter.jpeg)
 #### There is no specific roadmap to learn Flutter but I will suggest some resource I have learned. :mag_right:
 
+-->
+> Roadmap to becoming a Flutter Developer in 2022.
+---
 
-<br><br>
+<h1 align="center">🗺 Flutter Roadmap — 2022</h1>
 
-
-## :dart: What is Dart?
-- Dart is a general-purpose, object-oriented programming language with C-style syntax.
-- It is open-source and developed by Google and released in 2011.
-- The purpose of Dart programming is to create a frontend user interfaces for the web and mobile apps.
-
-## :pushpin: What is flutter?
-- Flutter is a UI toolkit for creating fast, beautiful, natively compiled mobile applications with one programming language and a single codebase,
-  This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
-- It is an open-source development framework developed by Google and released in May 2017. Generally, Flutter is not a language; it is an SDK(Software Development Kit).
-- Flutter apps use Dart programming language for creating an app.
-- Flutter is mainly optimized for 2D mobile apps that can run on both Android and iOS platforms. We can also use it to build full-featured apps,
-  including camera, storage, geolocation, network, third-party SDKs, and more.
+<h4 align="center">There is no specific roadmap to learn Flutter So any sources included in this roadmap are personal recommendations. You can choose one or more sources if you wish, or you can search for other sources.</h4>
 
 
-<br>
-<br>
-
-
-### :rocket: let's start our journey to learn flutter, I will divide the roadmap into different levels..
-
-- If you know any one programming language like C# , Java then you can grasp dart with within two to three days.
-- else you will need to study dart well and need to solve some problems then you will Learn.
 
 <br>
 
 ## Content
+
+[**Introduction**](https://github.com/mazen-mo7amed/FlutterRoadmap#Introduction)
 
 [**Install flutter and dart**](https://github.com/mazen-mo7amed/FlutterRoadmap#Install-flutter-and-dart)
 
@@ -61,14 +44,50 @@
 
 
 <br>
+
+---
+
+
+# Introduction :
+
+### :rocket: let's start our journey to learn flutter, I will divide the roadmap into different levels..
+
+- If you know any one programming language like C# , Java then you can grasp dart with within two to three days.
+- else you will need to study dart well and need to solve some problems then you will Learn.
+
+<br>
+
+## :dart: What is Dart?
+- Dart is a general-purpose, object-oriented programming language with C-style syntax.
+- It is open-source and developed by Google and released in 2011.
+- The purpose of Dart programming is to create a frontend user interfaces for the web and mobile apps.
+
+## :pushpin: What is flutter?
+- Flutter is a UI toolkit for creating fast, beautiful, natively compiled mobile applications with one programming language and a single codebase,
+  This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
+- It is an open-source development framework developed by Google and released in May 2017. Generally, Flutter is not a language; it is an SDK(Software Development Kit).
+- Flutter apps use Dart programming language for creating an app.
+- Flutter is mainly optimized for 2D mobile apps that can run on both Android and iOS platforms. We can also use it to build full-featured apps,
+  including camera, storage, geolocation, network, third-party SDKs, and more.
+
+
+<br>
+
+---
+
 <br>
 
 
-## Install flutter and dart
+# Install flutter and dart
 - [install flutter in windows](https://www.youtube.com/watch?v=hKA36F0iews&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=5&t=146s)
 - [install flutter in mac](https://www.youtube.com/watch?v=_352tm2HL_Y&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=2)
 - [install flutter in linux mint](https://www.youtube.com/watch?v=g1R_9s5XsY8&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=3)
 
+
+
+<br>
+
+---
 
 <br>
 
@@ -117,11 +136,15 @@ In this level you will Learn... ?
 `Note:`
 
 > ### :white_check_mark: After finishing dart and opp you can be able to start learning flutter. but it's important to learn...
+
+
+
 <br>
 
 ---
 
 <br>
+
 
 ## 3. Data Structures & Algorithms
 

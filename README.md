@@ -94,7 +94,10 @@ In this level you will Learn... ?
 
 <br>
 
-###### If you are beginner, and you don’t know any `OOP` concepts watch Mosh video about OOP concepts in general : [OOP in 7 minutes.](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+`Note:`
+
+> **If you are beginner, and you don’t know any `OOP` concepts watch Mosh video about OOP concepts in general : [OOP in 7 minutes.](https://www.youtube.com/watch?v=pTB0EiLXUC8)**.
+
 
 <br>
 
@@ -111,8 +114,9 @@ In this level you will Learn... ?
 - [A tour of the Dart language](https://dart.dev/guides/language/language-tour)
 
 
+`Note:`
 
-### :white_check_mark: After finishing dart and opp you can be able to start learning flutter. but it's important to learn...
+> ### :white_check_mark: After finishing dart and opp you can be able to start learning flutter. but it's important to learn...
 <br>
 
 ---
@@ -206,7 +210,10 @@ In this level you will Learn... ?
 
 <br>
 
-- [x] **After finishing this level you can be able to create beautiful static user interfaces.**
+`Note:`
+
+> **After finishing this level you can be able to create beautiful static user interfaces.** :white_check_mark:
+
 
 <br>
 

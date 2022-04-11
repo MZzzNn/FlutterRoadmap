@@ -25,6 +25,7 @@
 [**Install flutter and dart**](https://github.com/mazen-mo7amed/FlutterRoadmap#Install-flutter-and-dart)
 
 [**Dart**](https://github.com/mazen-mo7amed/FlutterRoadmap#dart-)
+- [Null safety](https://github.com/mazen-mo7amed/FlutterRoadmap#1-Null-safety)
 - [Basics](https://github.com/mazen-mo7amed/FlutterRoadmap#1-basics)
 - [OOP](https://github.com/mazen-mo7amed/FlutterRoadmap#2-OOP)
 - [Data Structures & Algorithms](https://github.com/mazen-mo7amed/FlutterRoadmap#3-data-structures--algorithms)
@@ -42,6 +43,12 @@
 - [Animation](https://github.com/mazen-mo7amed/FlutterRoadmap#8-Animation)
 - [Publish App](https://github.com/mazen-mo7amed/FlutterRoadmap#9-Publish-App)
 
+[**Others**](https://github.com/mazen-mo7amed/FlutterRoadmap#Others-)
+- [Full Courses](https://github.com/mazen-mo7amed/FlutterRoadmap#Full-Courses)
+- [Books](https://github.com/mazen-mo7amed/FlutterRoadmap#Books)
+- [Free APIs](https://github.com/mazen-mo7amed/FlutterRoadmap#Free-APIs-You-Can-Use-for-Testing)
+- [Icons](https://github.com/mazen-mo7amed/FlutterRoadmap#Icons)
+- [Tools](https://github.com/mazen-mo7amed/FlutterRoadmap#Tools)
 
 <br>
 
@@ -95,7 +102,15 @@
 # Dart :
 In this level you will Learn... ?
 
-## 1. Basics
+## 1. Null safety
+
+#### Arabic
+- [What is null safety](https://www.youtube.com/watch?v=nTmCj1lpeng&t=6s)
+- [Null safety in dart](https://www.youtube.com/watch?v=ObCzwDVXQYo)
+
+<br>
+
+## 2. Basics
 - variables and data types.
 - Operators.
 - Comments.
@@ -104,7 +119,7 @@ In this level you will Learn... ?
 
 <br>
 
-## 2. OOP
+## 3. OOP
 - Classes and objects
 - constructors
 - Getters setters
@@ -218,7 +233,7 @@ In this level you will Learn... ?
 #### English
 - [Flutter widget of the week](https://www.youtube.com/watch?v=b_sQ9bMltGU)
 - [Angela (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)
-    - [Angela (Udemy course free)](https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277)
+
 
 #### Arabic
 - [Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL)
@@ -280,10 +295,10 @@ If you want to use data live from internet within your app you need to learn ?
 #### English
 - [REST API integration with Flutter using http package](https://www.youtube.com/watch?v=1rXFKhBZXxY)
 - [Angela (sec 13) (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)
-    - [Angela (sec 13) (Udemy course free)](https://shareappscrack.com/the-complete-flutter-development-bootcamp-with-dart/?token=60182277)
 
 #### Arabic
 - [REST API for beginner](https://www.youtube.com/playlist?list=PLQdvu4PArdoINvwPRMk07bFFQKLQ6aV3f)
+- [REST API](https://www.youtube.com/playlist?list=PLZPZRxQG0yrqFtbXoixRwdnFnJSkPn4ni)
 - [Abdullah Mansour (sec 6 & 7) (Udemy course paid)](https://www.udemy.com/course/complete-flutter-arabic/)
 
 
@@ -303,6 +318,7 @@ If you want to use data live from internet within your app you need to learn ?
 
 #### Arabic
 - [Wael abo hamza (Firebase)](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH)
+- [Firebase With Flutter](https://www.youtube.com/playlist?list=PLZPZRxQG0yrrliTKMvPQpMs8CwjI54i2J)
 - [Abdullah Mansour (Udemy course paid)](https://www.udemy.com/course/complete-flutter-arabic/)
 - [hassan falah  (Udemy course paid)](https://www.udemy.com/course/fluttercourse/)
 
@@ -335,7 +351,6 @@ If you want to use data live from internet within your app you need to learn ?
 
 #### 3. GetX
 - [hassan falah (sec 9 & 13) (Udemy course paid)](https://www.udemy.com/course/fluttercourse/)
-#### 4. BLoc
 
 
 <br>
@@ -360,6 +375,45 @@ How To Publish your App On Google Play Store and App Store ?
 
 #### Arabic
 - [Google Play Store](https://www.youtube.com/watch?v=_enL3bRiHVI)
+
+<br>
+
+
+
+# Others :
+
+## Full Courses
+- [Angela Yu (Udemy course)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?ranMID=39197&ranEAID=a1o1REVAqJg&ranSiteID=a1o1REVAqJg-jkgk5aK9QIyitzFbMDvo0Q&LSNPUBID=a1o1REVAqJg&utm_source=aff-campaign&utm_medium=udemyads)
+- [Maximilian Schwarzmüller (Udemy course)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?ranMID=39197&ranEAID=a1o1REVAqJg&ranSiteID=a1o1REVAqJg-I5o2HBcgrPkQpZn0R903VA&LSNPUBID=a1o1REVAqJg&utm_source=aff-campaign&utm_medium=udemyads)
+- [Abdullah Mansour (Udemy course)](https://www.udemy.com/course/complete-flutter-arabic/)
+- [hassan falah (Udemy course)](https://www.udemy.com/course/fluttercourse/)
+
+<br>
+
+## Books
+- [Books](https://drive.google.com/drive/u/0/folders/1WbtzOf5u9eEjllubxqEyUkCCAgBfVOtY)
+
+<br>
+
+## Free APIs You Can Use for Testing
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [Public APIs](https://free-for.dev/#/?id=apis-data-and-ml)
+- [Public APIs](https://apipheny.io/free-api/)
+
+<br>
+
+## Icons
+- [freepik](https://www.freepik.com/)
+- [icons8](https://icons8.com/)
+
+<br>
+
+## Tools
+- [color picker](https://colorpicker.fr/#download)
+- [color hunt](https://colorhunt.co/)
+- [online emulator](https://appetize.io)
+- [screenshots device](https://mockuphone.com/)
+- [screenshots device (mockups)](https://play.google.com/store/apps/details?id=com.instamocks)
 
 <br>
 

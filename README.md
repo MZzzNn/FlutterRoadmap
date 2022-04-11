@@ -45,7 +45,7 @@
 
 [**Others**](https://github.com/mazen-mo7amed/FlutterRoadmap#Others-)
 - [Full Courses](https://github.com/mazen-mo7amed/FlutterRoadmap#Full-Courses)
-- [Books](https://github.com/mazen-mo7amed/FlutterRoadmap#Books)
+- [Books](https://github.com/mazen-mo7amed/FlutterRoadmap#books-2)
 - [Free APIs](https://github.com/mazen-mo7amed/FlutterRoadmap#Free-APIs-You-Can-Use-for-Testing)
 - [Icons](https://github.com/mazen-mo7amed/FlutterRoadmap#Icons)
 - [Tools](https://github.com/mazen-mo7amed/FlutterRoadmap#Tools)
@@ -378,37 +378,35 @@ How To Publish your App On Google Play Store and App Store ?
 
 <br>
 
+---
 
+<br>
 
 # Others :
 
-## Full Courses
+### Full Courses
 - [Angela Yu (Udemy course)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?ranMID=39197&ranEAID=a1o1REVAqJg&ranSiteID=a1o1REVAqJg-jkgk5aK9QIyitzFbMDvo0Q&LSNPUBID=a1o1REVAqJg&utm_source=aff-campaign&utm_medium=udemyads)
 - [Maximilian Schwarzmüller (Udemy course)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?ranMID=39197&ranEAID=a1o1REVAqJg&ranSiteID=a1o1REVAqJg-I5o2HBcgrPkQpZn0R903VA&LSNPUBID=a1o1REVAqJg&utm_source=aff-campaign&utm_medium=udemyads)
 - [Abdullah Mansour (Udemy course)](https://www.udemy.com/course/complete-flutter-arabic/)
 - [hassan falah (Udemy course)](https://www.udemy.com/course/fluttercourse/)
 
-<br>
 
-## Books
+### Books
 - [Books](https://drive.google.com/drive/u/0/folders/1WbtzOf5u9eEjllubxqEyUkCCAgBfVOtY)
 
-<br>
 
-## Free APIs You Can Use for Testing
+### Free APIs You Can Use for Testing
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Public APIs](https://free-for.dev/#/?id=apis-data-and-ml)
 - [Public APIs](https://apipheny.io/free-api/)
 
-<br>
 
-## Icons
+### Icons
 - [freepik](https://www.freepik.com/)
 - [icons8](https://icons8.com/)
 
-<br>
 
-## Tools
+### Tools
 - [color picker](https://colorpicker.fr/#download)
 - [color hunt](https://colorhunt.co/)
 - [online emulator](https://appetize.io)

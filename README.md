@@ -26,11 +26,11 @@
 
 [**Dart**](https://github.com/mazen-mo7amed/FlutterRoadmap#dart-)
 - [Null safety](https://github.com/mazen-mo7amed/FlutterRoadmap#1-Null-safety)
-- [Basics](https://github.com/mazen-mo7amed/FlutterRoadmap#1-basics)
-- [OOP](https://github.com/mazen-mo7amed/FlutterRoadmap#2-OOP)
-- [Data Structures & Algorithms](https://github.com/mazen-mo7amed/FlutterRoadmap#3-data-structures--algorithms)
-- [SOLID Principles](https://github.com/mazen-mo7amed/FlutterRoadmap#4-SOLID-Principles)
-- [Clean Code](https://github.com/mazen-mo7amed/FlutterRoadmap#5-Clean-Code)
+- [Basics](https://github.com/mazen-mo7amed/FlutterRoadmap#2-basics)
+- [OOP](https://github.com/mazen-mo7amed/FlutterRoadmap#3-OOP)
+- [Data Structures & Algorithms](https://github.com/mazen-mo7amed/FlutterRoadmap#4-data-structures--algorithms)
+- [SOLID Principles](https://github.com/mazen-mo7amed/FlutterRoadmap#5-SOLID-Principles)
+- [Clean Code](https://github.com/mazen-mo7amed/FlutterRoadmap#6-Clean-Code)
 
 [**Flutter**](https://github.com/mazen-mo7amed/FlutterRoadmap#Flutter-)
 - [Widgets & Ui](https://github.com/mazen-mo7amed/FlutterRoadmap#1-widgets--ui)
@@ -273,7 +273,7 @@ In this level you will Learn... ?
 - [Choosing the right database](https://blog.codemagic.io/choosing-the-right-database-for-your-flutter-app/)
 
 #### 1. Relational :
-   - ##### sqflite
+   - **sqflite**
 
      - **English**
        - [course Sqflite With Flutter](https://www.youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag)
@@ -287,10 +287,10 @@ In this level you will Learn... ?
 
 #### 2. NoSQL :
 
-   - ##### Firebase - online NoSQL storage
+   - **Firebase - online NoSQL storage**
 
 
-   - ##### Hive - offline NoSQL storage
+   - **Hive - offline NoSQL storage**
 
      - **English**
        - [Hive NoSQL Database](https://www.youtube.com/watch?v=w8cZKm9s228)

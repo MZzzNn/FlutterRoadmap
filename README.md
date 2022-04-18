@@ -259,7 +259,7 @@ In this level you will Learn... ?
 ## 2. Map
 
 #### English
-- [Google Maps Tutorial](https://meowing-penguin-975.notion.site/8f89a3f59e3f467985778dee0e2c9c72?v=6ff2514af645482ab882769ddac7a880)
+- [Google Maps Tutorial](https://www.youtube.com/watch?v=Zz5hMvgiWmY&t=203s&ab_channel=MarcusNg)
 #### Arabic
 - [Code2Start](https://www.youtube.com/playlist?list=PL3aG1K3LWCrdRIoo-AxecQBrvxN3S23s9)
 
@@ -273,10 +273,31 @@ In this level you will Learn... ?
 - [Choosing the right database](https://blog.codemagic.io/choosing-the-right-database-for-your-flutter-app/)
 
 #### 1. Relational :
+   - ##### sqflite
+
+     - **English**
+       - [course Sqflite With Flutter](https://www.youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag)
+
+     - **Arabic**
+       - [course Sqflite With Flutter](https://www.youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag)
+   
+     - **docs**
+       - [docs](https://github.com/tekartik/sqflite/blob/master/sqflite/README.md)
+       - [sqflite database ](https://www.youtube.com/watch?v=w8cZKm9s228)
 
 #### 2. NoSQL :
-   - **Hive**
-     - [Hive NoSQL Database](https://www.youtube.com/watch?v=w8cZKm9s228)
+
+   - ##### Firebase - online NoSQL storage
+
+
+   - ##### Hive - offline NoSQL storage
+
+     - **English**
+       - [Hive NoSQL Database](https://www.youtube.com/watch?v=w8cZKm9s228)
+
+     - **docs**
+       - [docs](https://docs.hivedb.dev/#/custom-objects/generate_adapter)
+
 
 
 <br>

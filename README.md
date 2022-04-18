@@ -269,10 +269,10 @@ In this level you will Learn... ?
 
 ## 3. Database
 
-#### ARTICLE
+### ARTICLE
 - [Choosing the right database](https://blog.codemagic.io/choosing-the-right-database-for-your-flutter-app/)
 
-#### 1. Relational :
+### 1. Relational :
    - **sqflite**
 
      - **English**
@@ -285,7 +285,7 @@ In this level you will Learn... ?
        - [docs](https://github.com/tekartik/sqflite/blob/master/sqflite/README.md)
        - [sqflite database ](https://www.youtube.com/watch?v=w8cZKm9s228)
 
-#### 2. NoSQL :
+### 2. NoSQL :
 
    - **Firebase - online NoSQL storage**
 

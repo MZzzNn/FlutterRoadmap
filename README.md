@@ -287,7 +287,7 @@ In this level you will Learn... ?
 
 ### 2. NoSQL :
 
-   - **Firebase - online NoSQL storage**
+   - [**Firebase - online NoSQL storage**](https://github.com/mazen-mo7amed/FlutterRoadmap#5-firebase)
 
 
    - **Hive - offline NoSQL storage**
@@ -305,10 +305,10 @@ In this level you will Learn... ?
 
 ## 4. Api
 If you want to use data live from internet within your app you need to learn ?
-- 1. how to call REST API’s
-- 2. make a Model for the request and response
-- 3. Parsing JSON data into dart objects
-- 3. HTTP requests.(post, delete, get, put)
+- how to call REST API’s
+- make a Model for the request and response
+- Parsing JSON data into dart objects
+- HTTP requests.(post, delete, get, put)
 
 <br>
 

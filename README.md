@@ -290,7 +290,7 @@ In this level you will Learn... ?
    - [**Firebase - online NoSQL storage**](https://github.com/mazen-mo7amed/FlutterRoadmap#5-firebase)
 
 
-   - **Hive - offline NoSQL storage**
+   - **Hive**
 
      - **English**
        - [Hive NoSQL Database](https://www.youtube.com/watch?v=w8cZKm9s228)
@@ -299,6 +299,10 @@ In this level you will Learn... ?
        - [docs](https://docs.hivedb.dev/#/custom-objects/generate_adapter)
 
 
+   - **shared_preferences**
+
+       - **Arabic**
+          -  [Shared preferences](https://www.youtube.com/watch?v=jPyu86PDdSg&ab_channel=Waelabohamza)
 
 <br>
 

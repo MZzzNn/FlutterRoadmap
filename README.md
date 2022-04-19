@@ -272,7 +272,7 @@ In this level you will Learn... ?
 ### ARTICLE
 - [Choosing the right database](https://blog.codemagic.io/choosing-the-right-database-for-your-flutter-app/)
 
-### 1. Relational :
+### 1. SQL | Relational databases:
    - **sqflite**
 
      - **English**
@@ -285,7 +285,7 @@ In this level you will Learn... ?
        - [docs](https://github.com/tekartik/sqflite/blob/master/sqflite/README.md)
        - [sqflite database ](https://www.youtube.com/watch?v=w8cZKm9s228)
 
-### 2. NoSQL :
+### 2. NoSQL | nonrelational databases :
 
    - [**Firebase - online NoSQL storage**](https://github.com/mazen-mo7amed/FlutterRoadmap#5-firebase)
 

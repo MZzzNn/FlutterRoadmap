@@ -299,7 +299,7 @@ In this level you will Learn... ?
        - [docs](https://docs.hivedb.dev/#/custom-objects/generate_adapter)
 
 
-   - **shared_preferences**
+   - **shared preferences**
 
        - **Arabic**
           -  [Shared preferences](https://www.youtube.com/watch?v=jPyu86PDdSg&ab_channel=Waelabohamza)

@@ -161,7 +161,7 @@ In this level you will Learn... ?
 <br>
 
 
-## 3. Data Structures & Algorithms
+## 4. Data Structures & Algorithms
 
 #### Udacity
 - [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
@@ -173,7 +173,7 @@ In this level you will Learn... ?
 <br>
 
 
-## 4. SOLID Principles
+## 5. SOLID Principles
 **The SOLID Principles** are five principles of Object-Oriented class design. They are a set of rules and best practices following while designing a class structure.
 
 <br>
@@ -188,7 +188,7 @@ In this level you will Learn... ?
 <br>
 
 
-## 5. Clean Code
+## 6. Clean Code
 Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees.
 Every year, countless hours and significant resources are lost because of poorly written code But it doesn’t have to be that way.
 

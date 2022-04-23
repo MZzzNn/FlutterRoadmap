@@ -275,15 +275,12 @@ In this level you will Learn... ?
 ### 1. SQL | Relational databases:
    - **sqflite**
 
-     - **English**
-       - [course Sqflite With Flutter](https://www.youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag)
-
      - **Arabic**
        - [course Sqflite With Flutter](https://www.youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag)
    
      - **docs**
        - [docs](https://github.com/tekartik/sqflite/blob/master/sqflite/README.md)
-       - [sqflite database ](https://www.youtube.com/watch?v=w8cZKm9s228)
+       - [sqflite database ](https://pub.dev/packages/sqflite)
 
 ### 2. NoSQL | nonrelational databases :
 

@@ -259,7 +259,9 @@ In this level you will Learn... ?
 ## 2. Map
 
 #### English
+- [Google Maps (Maps, Markers, Polylines, Places API & Directions API)](https://www.youtube.com/watch?v=tfFByL7F-00&ab_channel=MaxonFlutter)
 - [Google Maps Tutorial](https://www.youtube.com/watch?v=Zz5hMvgiWmY&t=203s&ab_channel=MarcusNg)
+
 #### Arabic
 - [Code2Start](https://www.youtube.com/playlist?list=PL3aG1K3LWCrdRIoo-AxecQBrvxN3S23s9)
 
@@ -372,6 +374,7 @@ If you want to use data live from internet within your app you need to learn ?
 - [Abdullah Mansour (Udemy course paid)](https://www.udemy.com/course/complete-flutter-arabic/)
 
 #### 3. GetX
+- [Course Getx flutter](https://www.youtube.com/playlist?list=PL93xoMrxRJIvZHL420f63bWIOrcoM6NU-)
 - [hassan falah (sec 9 & 13) (Udemy course paid)](https://www.udemy.com/course/fluttercourse/)
 
 
